@@ -1,8 +1,11 @@
-# React + Vite
+# CRUD APP USING AXIOS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application that demonstrates a CRUD (Create, Read, Update, Delete) functionality for managing user information. 
+The application uses React Bootstrap for styling and Axios for making API requests.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display user information in a styled table.
+- Edit user details with a form modal.
+- Delete user entries.
+- Responsive design using React Bootstrap.
